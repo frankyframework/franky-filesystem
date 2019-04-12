@@ -1,0 +1,23 @@
+{
+    "name": "frankyframework/franky-filesystem",
+    "type": "library",
+    "description": "Funciones de tokenizacion y escape de caracteres",
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+       "phpunit/phpunit": "^6.5"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Franky\\Filesystem\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "FrankyTest\\Filesystem\\": "test/"
+        }
+    },
+    "license": "MIT"
+}
