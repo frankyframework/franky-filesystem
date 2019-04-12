@@ -1,7 +1,7 @@
 {
     "name": "frankyframework/franky-filesystem",
     "type": "library",
-    "description": "Funciones de tokenizacion y escape de caracteres",
+    "description": "Funciones de directorios y archivos",
     "require": {
         "php": ">=7.0"
     },
