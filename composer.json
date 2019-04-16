@@ -2,6 +2,8 @@
     "name": "frankyframework/franky-filesystem",
     "type": "library",
     "description": "Funciones de directorios y archivos",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": ">=7.0"
     },
