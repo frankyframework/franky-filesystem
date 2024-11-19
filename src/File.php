@@ -93,7 +93,7 @@ class File{
 
   }
 
-  public function getFiles($path,$type="file")
+  static function getFiles($path,$type="file")
   {
       $files = array();
       $file = array();
